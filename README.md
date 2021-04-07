@@ -18,5 +18,5 @@ Below are the details of each python code:
 5. StudentDetails:
    Maintain records of students. Also have the ability to INSERT, DELETE, UPDATE & SEARCH records.
    
-#To execute any code execute command python followed by python file name from cmd. Ex: python GroupByOwner.py
+#To run any code execute command, python followed by python file name from cmd. Ex: python GroupByOwner.py
 
